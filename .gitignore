@@ -1,2 +1,4 @@
+!a.dat
 *.dat
-results/
+results/*
+!results/share/
